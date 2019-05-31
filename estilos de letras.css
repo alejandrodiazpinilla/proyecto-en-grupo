@@ -1,0 +1,12 @@
+a { color: #F04500; }
+        .fondo {
+        background-color: #303030;
+        color: #dfdfdf;
+        font-family:  'Helvetica Neue', Arial, sans-serif;
+        font-size: 18px;
+        line-height: 1.4;
+        padding: 20px;
+        margin: 40px;
+        border-radius: 5px;
+      }
+      
